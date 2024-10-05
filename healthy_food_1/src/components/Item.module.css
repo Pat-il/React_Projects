@@ -1,9 +1,10 @@
 
-.kg-item {
-    background-color: burlywood;
- }
   
-.kg-span {
-    color:brown;
+.kgSpan {
+    color:darkred;
     font-weight: 500;
+ }
+
+ .button {
+    float: right;
  }
