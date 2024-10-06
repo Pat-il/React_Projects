@@ -14,6 +14,10 @@ function App() {
     {
       name : "Go to College",
       dueDate : "4/10/2023"
+    },
+    {
+      name : "Like The Video",
+      dueDate : "Right Now"
     }
   ]
 
